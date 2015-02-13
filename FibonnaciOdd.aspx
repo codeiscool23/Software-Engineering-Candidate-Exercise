@@ -1,6 +1,5 @@
 ﻿<%@ Page Language="C#" %>
 <!DOCTYPE html>
-
 <script runat="server">
     protected void uxSubmit_Click(object sender, EventArgs e)
     {
